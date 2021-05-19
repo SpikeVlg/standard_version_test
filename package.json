@@ -1,6 +1,6 @@
 {
   "name": "standard_version_test",
-  "version": "1.0.0",
+  "version": "1.1.0-feature/KW-1000.0",
   "description": "",
   "main": "index.js",
   "scripts": {
