@@ -24,6 +24,12 @@ Upgrade version based on package.json
 # Change log:
 should be in master branch only
 
+# Manual step
+i Run `git push --follow-tags origin develop` to publish
+
+## Ideas:
+1. Use changelog only in master branch
+2. Try to no use package.json for versioning
 
 test
 test 2
