@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0-develop.1](https://github.com/SpikeVlg/standard_version_test/compare/v1.1.0-feature.0...v1.1.0-develop.1) (2021-05-19)
+
+
+### Features
+
+* **test:** test ([e8e7190](https://github.com/SpikeVlg/standard_version_test/commit/e8e71909943208026fec9617ee05a25038a76524))
+
+
+### Bug Fixes
+
+* **test:** test ([ff465a0](https://github.com/SpikeVlg/standard_version_test/commit/ff465a001b4f5698475dbaca594d81c01be25e3a))
+
 ## [1.1.0-develop.0](https://github.com/SpikeVlg/standard_version_test/compare/v1.1.0-feature.0...v1.1.0-develop.0) (2021-05-19)
 
 
