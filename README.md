@@ -27,6 +27,9 @@ should be in master branch only
 # Manual step
 i Run `git push --follow-tags origin develop` to publish
 
+# Skip updating versions
+npx standard-version --dry-run --prerelease=develop --bumpFiles= --skip.tag
+
 ## Ideas:
 1. Use changelog only in master branch
 2. Try to no use package.json for versioning
